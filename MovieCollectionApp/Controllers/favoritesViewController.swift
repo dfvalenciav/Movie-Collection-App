@@ -1,19 +1,19 @@
 //
-//  ViewController.swift
+//  favoritesViewController.swift
 //  MovieCollectionApp
 //
-//  Created by Daniel Felipe Valencia Rodriguez on 30/06/22.
+//  Created by Daniel Felipe Valencia Rodriguez on 3/07/22.
 //
+
+import Foundation
 
 import UIKit
 
-class ViewController: UIViewController {
+class favoritesViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
 }
-
